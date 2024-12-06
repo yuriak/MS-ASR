@@ -1,0 +1,14 @@
+{
+    "videos": {
+        "268": "./dataset/conference/2/acl_6060/dev/full_mp4/2022.acl-long.268.mp4",
+        "367": "./dataset/conference/2/acl_6060/dev/full_mp4/2022.acl-long.367.mp4",
+        "590": "./dataset/conference/2/acl_6060/dev/full_mp4/2022.acl-long.590.mp4",
+        "110": "./dataset/conference/2/acl_6060/dev/full_mp4/2022.acl-long.110.mp4",
+        "117": "./dataset/conference/2/acl_6060/dev/full_mp4/2022.acl-long.117.mp4",
+        "410": "./dataset/conference/2/acl_6060/eval/full_mp4/2022.acl-long.410.mp4",
+        "468": "./dataset/conference/2/acl_6060/eval/full_mp4/2022.acl-long.468.mp4",
+        "567": "./dataset/conference/2/acl_6060/eval/full_mp4/2022.acl-long.567.mp4",
+        "597": "./dataset/conference/2/acl_6060/eval/full_mp4/2022.acl-long.597.mp4",
+        "111": "./dataset/conference/2/acl_6060/eval/full_mp4/2022.acl-long.111.mp4"
+    }
+}
